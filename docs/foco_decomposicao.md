@@ -2,9 +2,13 @@
 
 Pasta principal com os algoritmos e papers com foco na decomposição. 
 
-> **Regra para adicionar artigos:** Clique no lápis no canto superior direito para editar. Copie um bloco `???` existente, cole abaixo e altere os dados.
+!!! note "📁 Estrutura desta pasta"
+    Aqui você encontra os artigos base soltos, mas temos uma subpasta específica apenas para os códigos.
+    👉 **[Clique aqui para acessar a subpasta de Algoritmos](algoritmos_codigos.md)**
 
 ---
+
+## 📄 Papers Principais
 
 ??? success "(LIDO) Multichannel Blind Source Separation (Holobar 2007a)"
     - **DOI:** [Link Se Houver](#)
