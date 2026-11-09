@@ -8,6 +8,12 @@ theme:
     - navigation.expand
     - search.suggest
 
+# Aqui ligamos as caixas expansíveis nativas
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - Início: index.md
   - Foco Decomposição: foco_decomposicao.md
