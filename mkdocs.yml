@@ -16,8 +16,8 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - 📚 Núcleo de Decomposição:
-      - Foco Decomposição: foco_decomposicao.md
-      - Algoritmos e Códigos: algoritmos_codigos.md
-  - 🧪 Validações e Dados: validacoes_dados.md
-  - 📂 Outros Projetos e Extras: analises_extras.md
+  - 📂 Foco Decomposição:
+      - 📄 Papers Principais: foco_decomposicao.md
+      - 📁 Subpasta Algoritmos: algoritmos_codigos.md
+  - 📊 Validações e Dados: validacoes_dados.md
+  - 📈 Análises e Extras: analises_extras.md
