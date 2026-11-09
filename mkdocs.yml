@@ -17,3 +17,6 @@ markdown_extensions:
 nav:
   - Início: index.md
   - Foco Decomposição: foco_decomposicao.md
+  - Algoritmos e Códigos: algoritmos_codigos.md
+  - Validações e Dados: validacoes_dados.md
+  - Análises e Extras: analises_extras.md
