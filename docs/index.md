@@ -1,6 +1,6 @@
 # Bem-vindo ao Repositório de EMG 🧠
 
-Esta é a nova documentação do nosso projeto de pesquisa. Utilize a **barra de pesquisa** lá em cima para encontrar algoritmos, papers ou pastas rapidamente.
+Esta é a nova documentação do nosso projeto de pesquisa. Utilize a **barra de pesquisa** lá em cima para encontrar algoritmos, papers ou pastas rapidamente. Para manter esta documentação atualizada, quando forem colocar um arquivo novo me avisem.
 
 ## Teste de Artigo Interativo
 
